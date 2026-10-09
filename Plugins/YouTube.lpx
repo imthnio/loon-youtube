@@ -1,5 +1,5 @@
 #!name = YouTube 去广告
-#!desc = 去除 YouTube App 与网页版（Safari）广告，可选后台播放、字幕翻译（简体中文 zh-CN / 美式英语 en-US，仅翻译已有字幕）、隐藏首页 Shorts、屏蔽频道。视频流量不再经过 MITM，打开视频不再卡顿。需开启 MITM 并信任证书。
+#!desc = 去除 YouTube App 与网页版（Safari）广告，可选后台播放、字幕翻译（简体中文 zh-CN / 美式英语 en-US，仅翻译已有字幕）、隐藏首页 Shorts、屏蔽频道。视频流量不再经过 MITM，减少打开视频时的卡顿。需开启 MITM 并信任证书。
 #!openUrl = https://github.com/imthnio/loon-youtube
 #!author = imthnio
 #!tag = YouTube, 去广告
