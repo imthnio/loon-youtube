@@ -42,7 +42,3 @@ https://raw.githubusercontent.com/imthnio/loon-youtube/main/Plugins/YouTube.lpx
 ## Contributors
 
 - [imthnio](https://github.com/imthnio)
-
----
-
-基于 [devchristian1337/loon-plugins](https://github.com/devchristian1337/loon-plugins) 的 YouTube 插件修改（MIT）。
