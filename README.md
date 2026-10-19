@@ -17,3 +17,10 @@ https://raw.githubusercontent.com/imthnio/loon-youtube/main/Plugins/YouTube.lpx
 ## Contributors
 
 - [imthnio](https://github.com/imthnio)
+
+## 赞赏支持
+如果这个脚本帮到了你，欢迎请我喝杯咖啡 ☕  
+微信扫一扫下方赞赏码即可：
+
+![赞赏码](./appreciate.png)
+
